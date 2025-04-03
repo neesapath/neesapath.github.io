@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Hotels>
 	<Hotel Rating="4.5">
 		<Name>Hyatt Place Phoenix/Mesa</Name>
 		<Phone>4809698200</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>1422</Number>
 			<Street>West Bass Pro Drive</Street>
 			<City>Mesa</City>
@@ -14,7 +14,7 @@
 	<Hotel Rating="4.0">
 		<Name>Sonesta Simply Suites Phoenix Tempe</Name>
 		<Phone>4807770440</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>1335</Number>
 			<Street>W Baseline Rd</Street>
 			<City>Tempe</City>
@@ -25,7 +25,7 @@
 	<Hotel Rating="4.4">
 		<Name>University Inn Tempe/ASU</Name>
 		<Phone>4809667221</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>902</Number>
 			<Street>S Mill Ave</Street>
 			<City>Tempe</City>
@@ -36,7 +36,7 @@
 	<Hotel Rating="4.3">
 		<Name>The Westin Tempe</Name>
 		<Phone>4809688885</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -47,7 +47,7 @@
 	<Hotel Rating="4.5">
 		<Name>Omni Tempe Hotel at ASU</Name>
 		<Phone>6027948600</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>7</Number>
 			<Street>7 E University Dr</Street>
 			<City>Tempe</City>
@@ -58,7 +58,7 @@
 	<Hotel>
 		<Name>Scottsdale Parkview Resort</Name>
 		<Phone>4809411202</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>7707</Number>
 			<Street>E McDowell Rd</Street>
 			<City>Scottsdale</City>
@@ -69,7 +69,7 @@
 	<Hotel>
 		<Name>Hotel Scottsdale</Name>
 		<Phone>4809461111</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>3275</Number>
 			<Street>N Drinkwater Blvd</Street>
 			<City>Scottsdale</City>
@@ -80,7 +80,7 @@
 	<Hotel>
 		<Name>Vib Hotel by Best Western Phoenix-Tempe</Name>
 		<Phone>4808052070</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>511</Number>
 			<Street>S Farmer Ave</Street>
 			<City>Tempe</City>
@@ -91,7 +91,7 @@
 	<Hotel>
 		<Name>Studio 6 Tempe</Name>
 		<Phone>6024144470</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>4909</Number>
 			<Street>S Wendler Dr</Street>
 			<City>Tempe</City>
@@ -102,7 +102,7 @@
 	<Hotel>
 		<Name>Scottsdale Parkview Resort</Name>
 		<Phone>4809411202</Phone>
-		<Address NearestAirport="Phoenix International Airport">
+		<Address NearstAirport="Phoenix International Airport">
 			<Number>7707</Number>
 			<Street>E McDowell Rd</Street>
 			<City>Scottsdale</City>
