@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Hotel Rating="4.5">
 		<Name>Hyatt Place Phoenix/Mesa</Name>
+		<Phone>4809698200</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>1422</Number>
 			<Street>West Bass Pro Drive</Street>
@@ -9,10 +10,10 @@
 			<State>Arizona</State>
 			<Zip>85201</Zip>
 		</Address>
-		<Phone>4809698200</Phone>
 	</Hotel>
 	<Hotel Rating="4.0">
 		<Name>Sonesta Simply Suites Phoenix Tempe</Name>
+		<Phone>4807770440</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>1335</Number>
 			<Street>W Baseline Rd</Street>
@@ -20,10 +21,10 @@
 			<State>Arizona</State>
 			<Zip>85283</Zip>
 		</Address>
-		<Phone>4807770440</Phone>
 	</Hotel>
 	<Hotel Rating="4.4">
 		<Name>University Inn Tempe/ASU</Name>
+		<Phone>4809667221</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>902</Number>
 			<Street>S Mill Ave</Street>
@@ -31,10 +32,10 @@
 			<State>Arizona</State>
 			<Zip>85281</Zip>
 		</Address>
-		<Phone>4809667221</Phone>
 	</Hotel>
 	<Hotel Rating="4.3">
 		<Name>The Westin Tempe</Name>
+		<Phone>4809688885</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
@@ -42,10 +43,10 @@
 			<State>Arizona</State>
 			<Zip>85281</Zip>
 		</Address>
-		<Phone>4809688885</Phone>
 	</Hotel>
 	<Hotel Rating="4.5">
 		<Name>Omni Tempe Hotel at ASU</Name>
+		<Phone>6027948600</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>7</Number>
 			<Street>7 E University Dr</Street>
@@ -53,10 +54,10 @@
 			<State>Arizona</State>
 			<Zip>85281</Zip>
 		</Address>
-		<Phone>6027948600</Phone>
 	</Hotel>
 	<Hotel>
 		<Name>Scottsdale Parkview Resort</Name>
+		<Phone>4809411202</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>7707</Number>
 			<Street>E McDowell Rd</Street>
@@ -64,10 +65,10 @@
 			<State>Arizona</State>
 			<Zip>85257</Zip>
 		</Address>
-		<Phone>4809411202</Phone>
 	</Hotel>
 	<Hotel>
 		<Name>Hotel Scottsdale</Name>
+		<Phone>4809461111</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>3275</Number>
 			<Street>N Drinkwater Blvd</Street>
@@ -75,10 +76,10 @@
 			<State>Arizona</State>
 			<Zip>85251</Zip>
 		</Address>
-		<Phone>4809461111</Phone>
 	</Hotel>
 	<Hotel>
 		<Name>Vib Hotel by Best Western Phoenix-Tempe</Name>
+		<Phone>4808052070</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>511</Number>
 			<Street>S Farmer Ave</Street>
@@ -86,10 +87,10 @@
 			<State>Arizona</State>
 			<Zip>85281</Zip>
 		</Address>
-		<Phone>4808052070</Phone>
 	</Hotel>
 	<Hotel>
 		<Name>Studio 6 Tempe</Name>
+		<Phone>6024144470</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>4909</Number>
 			<Street>S Wendler Dr</Street>
@@ -97,10 +98,10 @@
 			<State>Arizona</State>
 			<Zip>85282</Zip>
 		</Address>
-		<Phone>6024144470</Phone>
 	</Hotel>
 	<Hotel>
 		<Name>Scottsdale Parkview Resort</Name>
+		<Phone>4809411202</Phone>
 		<Address NearestAirport="Phoenix International Airport">
 			<Number>7707</Number>
 			<Street>E McDowell Rd</Street>
@@ -108,8 +109,5 @@
 			<State>Arizona</State>
 			<Zip>85257</Zip>
 		</Address>
-		<Phone>4809411202</Phone>
 	</Hotel>
 </Hotels>
-
-
